@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AnalizatorHTMLTomcatVersion:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>AnalizatorHTMLTomcatVersion</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="AnalizatorHTMLTomcatVersion-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="AnalizatorHTMLTomcatVersion:war exploded" />
+    </root>
+  </artifact>
+</component>

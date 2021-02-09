@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"model","l":"Analyzer"},{"p":"model","l":"Analyzer.ErrorType"},{"p":"controller","l":"CalculationsHistoryServlet"},{"p":"database","l":"DatabaseManager"},{"p":"model","l":"EmptyFileException"},{"p":"model","l":"FileManager"},{"p":"controller","l":"ProcessDocumentServlet"},{"p":"controller","l":"Receiver"}]

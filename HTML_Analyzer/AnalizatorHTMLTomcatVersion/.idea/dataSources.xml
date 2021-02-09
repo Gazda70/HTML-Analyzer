@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hpjp" uuid="712a3af2-5b13-417a-ba64-95a9ae8ed394">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:target/tmp/derby/hpjp;databaseName=high_performance_java_persistence;create=true</jdbc-url>
+    </data-source>
+  </component>
+</project>
